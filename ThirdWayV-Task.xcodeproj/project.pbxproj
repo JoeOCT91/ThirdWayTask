@@ -54,6 +54,7 @@
 
 /* Begin PBXFileReference section */
 		863926542851DE1F00082566 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		863C534828555BD400893531 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		86501F8D2851E5C1002D834A /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		86501F8F2851E691002D834A /* ProductImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductImage.swift; sourceTree = "<group>"; };
 		865657282854DD0000C86259 /* UIViewController+ShowAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+ShowAlert.swift"; sourceTree = "<group>"; };
@@ -253,6 +254,7 @@
 		86A3A9A0284FF73800E0D38E = {
 			isa = PBXGroup;
 			children = (
+				863C534828555BD400893531 /* README.md */,
 				86A3A9AB284FF73800E0D38E /* ThirdWayV-Task */,
 				86A3A9AA284FF73800E0D38E /* Products */,
 			);
